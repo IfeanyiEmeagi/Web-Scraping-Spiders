@@ -1,0 +1,212 @@
+[
+    {
+        "Group A": {
+            "Bayern Munich": {
+                "win": "5",
+                "draw": "1",
+                "loses": "0",
+                "point": "16"
+            },
+            "FC Copenhagen": {
+                "win": "2",
+                "draw": "2",
+                "loses": "2",
+                "point": "8"
+            },
+            "Galatasaray": {
+                "win": "1",
+                "draw": "2",
+                "loses": "3",
+                "point": "5"
+            },
+            "Manchester United": {
+                "win": "1",
+                "draw": "1",
+                "loses": "4",
+                "point": "4"
+            }
+        },
+        "Group B": {
+            "Arsenal": {
+                "win": "4",
+                "draw": "1",
+                "loses": "1",
+                "point": "13"
+            },
+            "PSV Eindhoven": {
+                "win": "2",
+                "draw": "3",
+                "loses": "1",
+                "point": "9"
+            },
+            "Lens": {
+                "win": "2",
+                "draw": "2",
+                "loses": "2",
+                "point": "8"
+            },
+            "Sevilla": {
+                "win": "0",
+                "draw": "2",
+                "loses": "4",
+                "point": "2"
+            }
+        },
+        "Group C": {
+            "Real Madrid": {
+                "win": "6",
+                "draw": "0",
+                "loses": "0",
+                "point": "18"
+            },
+            "Napoli": {
+                "win": "3",
+                "draw": "1",
+                "loses": "2",
+                "point": "10"
+            },
+            "Braga": {
+                "win": "1",
+                "draw": "1",
+                "loses": "4",
+                "point": "4"
+            },
+            "1. FC Union Berlin": {
+                "win": "0",
+                "draw": "2",
+                "loses": "4",
+                "point": "2"
+            }
+        },
+        "Group D": {
+            "Real Sociedad": {
+                "win": "3",
+                "draw": "3",
+                "loses": "0",
+                "point": "12"
+            },
+            "Internazionale": {
+                "win": "3",
+                "draw": "3",
+                "loses": "0",
+                "point": "12"
+            },
+            "Benfica": {
+                "win": "1",
+                "draw": "1",
+                "loses": "4",
+                "point": "4"
+            },
+            "FC Salzburg": {
+                "win": "1",
+                "draw": "1",
+                "loses": "4",
+                "point": "4"
+            }
+        },
+        "Group E": {
+            "Atl\u00e9tico Madrid": {
+                "win": "4",
+                "draw": "2",
+                "loses": "0",
+                "point": "14"
+            },
+            "Lazio": {
+                "win": "3",
+                "draw": "1",
+                "loses": "2",
+                "point": "10"
+            },
+            "Feyenoord Rotterdam": {
+                "win": "2",
+                "draw": "0",
+                "loses": "4",
+                "point": "6"
+            },
+            "Celtic": {
+                "win": "1",
+                "draw": "1",
+                "loses": "4",
+                "point": "4"
+            }
+        },
+        "Group F": {
+            "Borussia Dortmund": {
+                "win": "3",
+                "draw": "2",
+                "loses": "1",
+                "point": "11"
+            },
+            "Paris Saint-Germain": {
+                "win": "2",
+                "draw": "2",
+                "loses": "2",
+                "point": "8"
+            },
+            "AC Milan": {
+                "win": "2",
+                "draw": "2",
+                "loses": "2",
+                "point": "8"
+            },
+            "Newcastle United": {
+                "win": "1",
+                "draw": "2",
+                "loses": "3",
+                "point": "5"
+            }
+        },
+        "Group G": {
+            "Manchester City": {
+                "win": "6",
+                "draw": "0",
+                "loses": "0",
+                "point": "18"
+            },
+            "RB Leipzig": {
+                "win": "4",
+                "draw": "0",
+                "loses": "2",
+                "point": "12"
+            },
+            "Young Boys": {
+                "win": "1",
+                "draw": "1",
+                "loses": "4",
+                "point": "4"
+            },
+            "Red Star Belgrade": {
+                "win": "0",
+                "draw": "1",
+                "loses": "5",
+                "point": "1"
+            }
+        },
+        "Group H": {
+            "Barcelona": {
+                "win": "4",
+                "draw": "0",
+                "loses": "2",
+                "point": "12"
+            },
+            "FC Porto": {
+                "win": "4",
+                "draw": "0",
+                "loses": "2",
+                "point": "12"
+            },
+            "Shakhtar Donetsk": {
+                "win": "3",
+                "draw": "0",
+                "loses": "3",
+                "point": "9"
+            },
+            "Antwerp": {
+                "win": "1",
+                "draw": "0",
+                "loses": "5",
+                "point": "3"
+            }
+        }
+    }
+]
