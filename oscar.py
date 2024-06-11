@@ -21,7 +21,6 @@ class OscarSpider(scrapy.Spider):
         years = response.css("a.year-link::text").getall()
         url = ["https://www.scrapethissite.com/pages/ajax-javascript/#{}".format(year) for year in years]
         for pos, year in enumerate(years):
-            print("[ year ]: ", year)
             yield scrapy.Request(
                         url=url[pos],
                         meta={
