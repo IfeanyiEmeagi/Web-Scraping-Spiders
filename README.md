@@ -12,3 +12,5 @@ Its features can be extended with the installation of external plugins like Play
 *Spiders*
 
 - OscarSpider - The spider scrapes all the award-winning films, the number of nominations, and the number of awards in each table year from https://www.scrapethissite.com/pages/ajax-javascript/#2015."
+
+- LeagueTableSpider - The spider scrapes the win, loses, draw and points of all the teams in four European league table. The European leagues are French Ligue 1, Italian Serie A, German Bundesliga, Spanish LALIGA and English Premier League.
