@@ -5,19 +5,20 @@ from datetime import date
 
 class TrackerSpider(scrapy.Spider):
     name = "tracker"
+    query = "python for beginners"
 
-    def __init__(self, query="python for beginners", *args, **kwargs):
+    def __init__(self, query=None, *args, **kwargs):
         super().__init__(self, *args, **kwargs)
 
         self.base_url = "https://www.amazon.com"
         self.search_url = "https://www.amazon.com/s?k={query}"
 
-        self.query = query
+        self.query = query if query else self.query
         self.rank = None
         self.page_number = 1
 
         self.start_urls = [ self.search_url.format(
-            query = query.replace(" ", "+")
+            query = self.query.replace(" ", "+")
             ) ]
 
     def parse(self, response):
