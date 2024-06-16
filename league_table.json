@@ -1,7 +1,598 @@
 [
-{"English Premier League Table 2023-24": {"Manchester City": {"win": "28", "draw": "7", "loses": "3", "point": "91"}, "Arsenal": {"win": "28", "draw": "5", "loses": "5", "point": "89"}, "Liverpool": {"win": "24", "draw": "10", "loses": "4", "point": "82"}, "Aston Villa": {"win": "20", "draw": "8", "loses": "10", "point": "68"}, "Tottenham Hotspur": {"win": "20", "draw": "6", "loses": "12", "point": "66"}, "Chelsea": {"win": "18", "draw": "9", "loses": "11", "point": "63"}, "Newcastle United": {"win": "18", "draw": "6", "loses": "14", "point": "60"}, "Manchester United": {"win": "18", "draw": "6", "loses": "14", "point": "60"}, "West Ham United": {"win": "14", "draw": "10", "loses": "14", "point": "52"}, "Crystal Palace": {"win": "13", "draw": "10", "loses": "15", "point": "49"}, "Brighton & Hove Albion": {"win": "12", "draw": "12", "loses": "14", "point": "48"}, "AFC Bournemouth": {"win": "13", "draw": "9", "loses": "16", "point": "48"}, "Fulham": {"win": "13", "draw": "8", "loses": "17", "point": "47"}, "Wolverhampton Wanderers": {"win": "13", "draw": "7", "loses": "18", "point": "46"}, "Everton": {"win": "13", "draw": "9", "loses": "16", "point": "40"}, "Brentford": {"win": "10", "draw": "9", "loses": "19", "point": "39"}, "Nottingham Forest": {"win": "9", "draw": "9", "loses": "20", "point": "32"}, "Luton Town": {"win": "6", "draw": "8", "loses": "24", "point": "26"}, "Burnley": {"win": "5", "draw": "9", "loses": "24", "point": "24"}, "Sheffield United": {"win": "3", "draw": "7", "loses": "28", "point": "16"}}},
-{"French Ligue 1 Table 2023-24": {"Paris Saint-Germain": {"win": "22", "draw": "10", "loses": "2", "point": "76"}, "AS Monaco": {"win": "20", "draw": "7", "loses": "7", "point": "67"}, "Brest": {"win": "17", "draw": "10", "loses": "7", "point": "61"}, "Lille": {"win": "16", "draw": "11", "loses": "7", "point": "59"}, "Nice": {"win": "15", "draw": "10", "loses": "9", "point": "55"}, "Lyon": {"win": "16", "draw": "5", "loses": "13", "point": "53"}, "Lens": {"win": "14", "draw": "9", "loses": "11", "point": "51"}, "Marseille": {"win": "13", "draw": "11", "loses": "10", "point": "50"}, "Stade de Reims": {"win": "13", "draw": "8", "loses": "13", "point": "47"}, "Stade Rennais": {"win": "12", "draw": "10", "loses": "12", "point": "46"}, "Toulouse": {"win": "11", "draw": "10", "loses": "13", "point": "43"}, "Montpellier": {"win": "10", "draw": "12", "loses": "12", "point": "41"}, "Strasbourg": {"win": "10", "draw": "9", "loses": "15", "point": "39"}, "Nantes": {"win": "9", "draw": "6", "loses": "19", "point": "33"}, "Le Havre AC": {"win": "7", "draw": "11", "loses": "16", "point": "32"}, "Metz": {"win": "8", "draw": "5", "loses": "21", "point": "29"}, "Lorient": {"win": "7", "draw": "8", "loses": "19", "point": "29"}, "Clermont Foot": {"win": "5", "draw": "10", "loses": "19", "point": "25"}}},
-{"Italian Serie A Table 2023-24": {"Internazionale": {"win": "29", "draw": "7", "loses": "2", "point": "94"}, "AC Milan": {"win": "22", "draw": "9", "loses": "7", "point": "75"}, "Juventus": {"win": "19", "draw": "14", "loses": "5", "point": "71"}, "Atalanta": {"win": "21", "draw": "6", "loses": "11", "point": "69"}, "Bologna": {"win": "18", "draw": "14", "loses": "6", "point": "68"}, "AS Roma": {"win": "18", "draw": "9", "loses": "11", "point": "63"}, "Lazio": {"win": "18", "draw": "7", "loses": "13", "point": "61"}, "Fiorentina": {"win": "17", "draw": "9", "loses": "12", "point": "60"}, "Torino": {"win": "13", "draw": "14", "loses": "11", "point": "53"}, "Napoli": {"win": "13", "draw": "14", "loses": "11", "point": "53"}, "Genoa": {"win": "12", "draw": "13", "loses": "13", "point": "49"}, "Monza": {"win": "11", "draw": "12", "loses": "15", "point": "45"}, "Hellas Verona": {"win": "9", "draw": "11", "loses": "18", "point": "38"}, "Lecce": {"win": "8", "draw": "14", "loses": "16", "point": "38"}, "Udinese": {"win": "6", "draw": "19", "loses": "13", "point": "37"}, "Cagliari": {"win": "8", "draw": "12", "loses": "18", "point": "36"}, "Empoli": {"win": "9", "draw": "9", "loses": "20", "point": "36"}, "Frosinone": {"win": "8", "draw": "11", "loses": "19", "point": "35"}, "Sassuolo": {"win": "7", "draw": "9", "loses": "22", "point": "30"}, "Salernitana": {"win": "2", "draw": "11", "loses": "25", "point": "17"}}},
-{"German Bundesliga Table 2023-24": {"Bayer Leverkusen": {"win": "28", "draw": "6", "loses": "0", "point": "90"}, "VfB Stuttgart": {"win": "23", "draw": "4", "loses": "7", "point": "73"}, "Bayern Munich": {"win": "23", "draw": "3", "loses": "8", "point": "72"}, "RB Leipzig": {"win": "19", "draw": "8", "loses": "7", "point": "65"}, "Borussia Dortmund": {"win": "18", "draw": "9", "loses": "7", "point": "63"}, "Eintracht Frankfurt": {"win": "11", "draw": "14", "loses": "9", "point": "47"}, "TSG Hoffenheim": {"win": "13", "draw": "7", "loses": "14", "point": "46"}, "1. FC Heidenheim 1846": {"win": "10", "draw": "12", "loses": "12", "point": "42"}, "Werder Bremen": {"win": "11", "draw": "9", "loses": "14", "point": "42"}, "SC Freiburg": {"win": "11", "draw": "9", "loses": "14", "point": "42"}, "FC Augsburg": {"win": "10", "draw": "9", "loses": "15", "point": "39"}, "VfL Wolfsburg": {"win": "10", "draw": "7", "loses": "17", "point": "37"}, "Mainz": {"win": "7", "draw": "14", "loses": "13", "point": "35"}, "Borussia Monchengladbach": {"win": "7", "draw": "13", "loses": "14", "point": "34"}, "1. FC Union Berlin": {"win": "9", "draw": "6", "loses": "19", "point": "33"}, "VfL Bochum": {"win": "7", "draw": "12", "loses": "15", "point": "33"}, "FC Cologne": {"win": "5", "draw": "12", "loses": "17", "point": "27"}, "SV Darmstadt 98": {"win": "3", "draw": "8", "loses": "23", "point": "17"}}},
-{"Spanish LALIGA Table 2023-24": {"Real Madrid": {"win": "29", "draw": "8", "loses": "1", "point": "95"}, "Barcelona": {"win": "26", "draw": "7", "loses": "5", "point": "85"}, "Girona": {"win": "25", "draw": "6", "loses": "7", "point": "81"}, "Atl\u00e9tico Madrid": {"win": "24", "draw": "4", "loses": "10", "point": "76"}, "Athletic Club": {"win": "19", "draw": "11", "loses": "8", "point": "68"}, "Real Sociedad": {"win": "16", "draw": "12", "loses": "10", "point": "60"}, "Real Betis": {"win": "14", "draw": "15", "loses": "9", "point": "57"}, "Villarreal": {"win": "14", "draw": "11", "loses": "13", "point": "53"}, "Valencia": {"win": "13", "draw": "10", "loses": "15", "point": "49"}, "Alav\u00e9s": {"win": "12", "draw": "10", "loses": "16", "point": "46"}, "Osasuna": {"win": "12", "draw": "9", "loses": "17", "point": "45"}, "Getafe": {"win": "10", "draw": "13", "loses": "15", "point": "43"}, "Celta Vigo": {"win": "10", "draw": "11", "loses": "17", "point": "41"}, "Sevilla": {"win": "10", "draw": "11", "loses": "17", "point": "41"}, "Mallorca": {"win": "8", "draw": "16", "loses": "14", "point": "40"}, "Las Palmas": {"win": "10", "draw": "10", "loses": "18", "point": "40"}, "Rayo Vallecano": {"win": "8", "draw": "14", "loses": "16", "point": "38"}, "C\u00e1diz": {"win": "6", "draw": "15", "loses": "17", "point": "33"}, "Almer\u00eda": {"win": "3", "draw": "12", "loses": "23", "point": "21"}, "Granada": {"win": "4", "draw": "9", "loses": "25", "point": "21"}}}
+    {
+        "English Premier League Table 2023-24": {
+            "Manchester City": {
+                "win": "28",
+                "draw": "7",
+                "loses": "3",
+                "point": "91"
+            },
+            "Arsenal": {
+                "win": "28",
+                "draw": "5",
+                "loses": "5",
+                "point": "89"
+            },
+            "Liverpool": {
+                "win": "24",
+                "draw": "10",
+                "loses": "4",
+                "point": "82"
+            },
+            "Aston Villa": {
+                "win": "20",
+                "draw": "8",
+                "loses": "10",
+                "point": "68"
+            },
+            "Tottenham Hotspur": {
+                "win": "20",
+                "draw": "6",
+                "loses": "12",
+                "point": "66"
+            },
+            "Chelsea": {
+                "win": "18",
+                "draw": "9",
+                "loses": "11",
+                "point": "63"
+            },
+            "Newcastle United": {
+                "win": "18",
+                "draw": "6",
+                "loses": "14",
+                "point": "60"
+            },
+            "Manchester United": {
+                "win": "18",
+                "draw": "6",
+                "loses": "14",
+                "point": "60"
+            },
+            "West Ham United": {
+                "win": "14",
+                "draw": "10",
+                "loses": "14",
+                "point": "52"
+            },
+            "Crystal Palace": {
+                "win": "13",
+                "draw": "10",
+                "loses": "15",
+                "point": "49"
+            },
+            "Brighton & Hove Albion": {
+                "win": "12",
+                "draw": "12",
+                "loses": "14",
+                "point": "48"
+            },
+            "AFC Bournemouth": {
+                "win": "13",
+                "draw": "9",
+                "loses": "16",
+                "point": "48"
+            },
+            "Fulham": {
+                "win": "13",
+                "draw": "8",
+                "loses": "17",
+                "point": "47"
+            },
+            "Wolverhampton Wanderers": {
+                "win": "13",
+                "draw": "7",
+                "loses": "18",
+                "point": "46"
+            },
+            "Everton": {
+                "win": "13",
+                "draw": "9",
+                "loses": "16",
+                "point": "40"
+            },
+            "Brentford": {
+                "win": "10",
+                "draw": "9",
+                "loses": "19",
+                "point": "39"
+            },
+            "Nottingham Forest": {
+                "win": "9",
+                "draw": "9",
+                "loses": "20",
+                "point": "32"
+            },
+            "Luton Town": {
+                "win": "6",
+                "draw": "8",
+                "loses": "24",
+                "point": "26"
+            },
+            "Burnley": {
+                "win": "5",
+                "draw": "9",
+                "loses": "24",
+                "point": "24"
+            },
+            "Sheffield United": {
+                "win": "3",
+                "draw": "7",
+                "loses": "28",
+                "point": "16"
+            }
+        }
+    },
+    {
+        "French Ligue 1 Table 2023-24": {
+            "Paris Saint-Germain": {
+                "win": "22",
+                "draw": "10",
+                "loses": "2",
+                "point": "76"
+            },
+            "AS Monaco": {
+                "win": "20",
+                "draw": "7",
+                "loses": "7",
+                "point": "67"
+            },
+            "Brest": {
+                "win": "17",
+                "draw": "10",
+                "loses": "7",
+                "point": "61"
+            },
+            "Lille": {
+                "win": "16",
+                "draw": "11",
+                "loses": "7",
+                "point": "59"
+            },
+            "Nice": {
+                "win": "15",
+                "draw": "10",
+                "loses": "9",
+                "point": "55"
+            },
+            "Lyon": {
+                "win": "16",
+                "draw": "5",
+                "loses": "13",
+                "point": "53"
+            },
+            "Lens": {
+                "win": "14",
+                "draw": "9",
+                "loses": "11",
+                "point": "51"
+            },
+            "Marseille": {
+                "win": "13",
+                "draw": "11",
+                "loses": "10",
+                "point": "50"
+            },
+            "Stade de Reims": {
+                "win": "13",
+                "draw": "8",
+                "loses": "13",
+                "point": "47"
+            },
+            "Stade Rennais": {
+                "win": "12",
+                "draw": "10",
+                "loses": "12",
+                "point": "46"
+            },
+            "Toulouse": {
+                "win": "11",
+                "draw": "10",
+                "loses": "13",
+                "point": "43"
+            },
+            "Montpellier": {
+                "win": "10",
+                "draw": "12",
+                "loses": "12",
+                "point": "41"
+            },
+            "Strasbourg": {
+                "win": "10",
+                "draw": "9",
+                "loses": "15",
+                "point": "39"
+            },
+            "Nantes": {
+                "win": "9",
+                "draw": "6",
+                "loses": "19",
+                "point": "33"
+            },
+            "Le Havre AC": {
+                "win": "7",
+                "draw": "11",
+                "loses": "16",
+                "point": "32"
+            },
+            "Metz": {
+                "win": "8",
+                "draw": "5",
+                "loses": "21",
+                "point": "29"
+            },
+            "Lorient": {
+                "win": "7",
+                "draw": "8",
+                "loses": "19",
+                "point": "29"
+            },
+            "Clermont Foot": {
+                "win": "5",
+                "draw": "10",
+                "loses": "19",
+                "point": "25"
+            }
+        }
+    },
+    {
+        "Italian Serie A Table 2023-24": {
+            "Internazionale": {
+                "win": "29",
+                "draw": "7",
+                "loses": "2",
+                "point": "94"
+            },
+            "AC Milan": {
+                "win": "22",
+                "draw": "9",
+                "loses": "7",
+                "point": "75"
+            },
+            "Juventus": {
+                "win": "19",
+                "draw": "14",
+                "loses": "5",
+                "point": "71"
+            },
+            "Atalanta": {
+                "win": "21",
+                "draw": "6",
+                "loses": "11",
+                "point": "69"
+            },
+            "Bologna": {
+                "win": "18",
+                "draw": "14",
+                "loses": "6",
+                "point": "68"
+            },
+            "AS Roma": {
+                "win": "18",
+                "draw": "9",
+                "loses": "11",
+                "point": "63"
+            },
+            "Lazio": {
+                "win": "18",
+                "draw": "7",
+                "loses": "13",
+                "point": "61"
+            },
+            "Fiorentina": {
+                "win": "17",
+                "draw": "9",
+                "loses": "12",
+                "point": "60"
+            },
+            "Torino": {
+                "win": "13",
+                "draw": "14",
+                "loses": "11",
+                "point": "53"
+            },
+            "Napoli": {
+                "win": "13",
+                "draw": "14",
+                "loses": "11",
+                "point": "53"
+            },
+            "Genoa": {
+                "win": "12",
+                "draw": "13",
+                "loses": "13",
+                "point": "49"
+            },
+            "Monza": {
+                "win": "11",
+                "draw": "12",
+                "loses": "15",
+                "point": "45"
+            },
+            "Hellas Verona": {
+                "win": "9",
+                "draw": "11",
+                "loses": "18",
+                "point": "38"
+            },
+            "Lecce": {
+                "win": "8",
+                "draw": "14",
+                "loses": "16",
+                "point": "38"
+            },
+            "Udinese": {
+                "win": "6",
+                "draw": "19",
+                "loses": "13",
+                "point": "37"
+            },
+            "Cagliari": {
+                "win": "8",
+                "draw": "12",
+                "loses": "18",
+                "point": "36"
+            },
+            "Empoli": {
+                "win": "9",
+                "draw": "9",
+                "loses": "20",
+                "point": "36"
+            },
+            "Frosinone": {
+                "win": "8",
+                "draw": "11",
+                "loses": "19",
+                "point": "35"
+            },
+            "Sassuolo": {
+                "win": "7",
+                "draw": "9",
+                "loses": "22",
+                "point": "30"
+            },
+            "Salernitana": {
+                "win": "2",
+                "draw": "11",
+                "loses": "25",
+                "point": "17"
+            }
+        }
+    },
+    {
+        "German Bundesliga Table 2023-24": {
+            "Bayer Leverkusen": {
+                "win": "28",
+                "draw": "6",
+                "loses": "0",
+                "point": "90"
+            },
+            "VfB Stuttgart": {
+                "win": "23",
+                "draw": "4",
+                "loses": "7",
+                "point": "73"
+            },
+            "Bayern Munich": {
+                "win": "23",
+                "draw": "3",
+                "loses": "8",
+                "point": "72"
+            },
+            "RB Leipzig": {
+                "win": "19",
+                "draw": "8",
+                "loses": "7",
+                "point": "65"
+            },
+            "Borussia Dortmund": {
+                "win": "18",
+                "draw": "9",
+                "loses": "7",
+                "point": "63"
+            },
+            "Eintracht Frankfurt": {
+                "win": "11",
+                "draw": "14",
+                "loses": "9",
+                "point": "47"
+            },
+            "TSG Hoffenheim": {
+                "win": "13",
+                "draw": "7",
+                "loses": "14",
+                "point": "46"
+            },
+            "1. FC Heidenheim 1846": {
+                "win": "10",
+                "draw": "12",
+                "loses": "12",
+                "point": "42"
+            },
+            "Werder Bremen": {
+                "win": "11",
+                "draw": "9",
+                "loses": "14",
+                "point": "42"
+            },
+            "SC Freiburg": {
+                "win": "11",
+                "draw": "9",
+                "loses": "14",
+                "point": "42"
+            },
+            "FC Augsburg": {
+                "win": "10",
+                "draw": "9",
+                "loses": "15",
+                "point": "39"
+            },
+            "VfL Wolfsburg": {
+                "win": "10",
+                "draw": "7",
+                "loses": "17",
+                "point": "37"
+            },
+            "Mainz": {
+                "win": "7",
+                "draw": "14",
+                "loses": "13",
+                "point": "35"
+            },
+            "Borussia Monchengladbach": {
+                "win": "7",
+                "draw": "13",
+                "loses": "14",
+                "point": "34"
+            },
+            "1. FC Union Berlin": {
+                "win": "9",
+                "draw": "6",
+                "loses": "19",
+                "point": "33"
+            },
+            "VfL Bochum": {
+                "win": "7",
+                "draw": "12",
+                "loses": "15",
+                "point": "33"
+            },
+            "FC Cologne": {
+                "win": "5",
+                "draw": "12",
+                "loses": "17",
+                "point": "27"
+            },
+            "SV Darmstadt 98": {
+                "win": "3",
+                "draw": "8",
+                "loses": "23",
+                "point": "17"
+            }
+        }
+    },
+    {
+        "Spanish LALIGA Table 2023-24": {
+            "Real Madrid": {
+                "win": "29",
+                "draw": "8",
+                "loses": "1",
+                "point": "95"
+            },
+            "Barcelona": {
+                "win": "26",
+                "draw": "7",
+                "loses": "5",
+                "point": "85"
+            },
+            "Girona": {
+                "win": "25",
+                "draw": "6",
+                "loses": "7",
+                "point": "81"
+            },
+            "Atl\u00e9tico Madrid": {
+                "win": "24",
+                "draw": "4",
+                "loses": "10",
+                "point": "76"
+            },
+            "Athletic Club": {
+                "win": "19",
+                "draw": "11",
+                "loses": "8",
+                "point": "68"
+            },
+            "Real Sociedad": {
+                "win": "16",
+                "draw": "12",
+                "loses": "10",
+                "point": "60"
+            },
+            "Real Betis": {
+                "win": "14",
+                "draw": "15",
+                "loses": "9",
+                "point": "57"
+            },
+            "Villarreal": {
+                "win": "14",
+                "draw": "11",
+                "loses": "13",
+                "point": "53"
+            },
+            "Valencia": {
+                "win": "13",
+                "draw": "10",
+                "loses": "15",
+                "point": "49"
+            },
+            "Alav\u00e9s": {
+                "win": "12",
+                "draw": "10",
+                "loses": "16",
+                "point": "46"
+            },
+            "Osasuna": {
+                "win": "12",
+                "draw": "9",
+                "loses": "17",
+                "point": "45"
+            },
+            "Getafe": {
+                "win": "10",
+                "draw": "13",
+                "loses": "15",
+                "point": "43"
+            },
+            "Celta Vigo": {
+                "win": "10",
+                "draw": "11",
+                "loses": "17",
+                "point": "41"
+            },
+            "Sevilla": {
+                "win": "10",
+                "draw": "11",
+                "loses": "17",
+                "point": "41"
+            },
+            "Mallorca": {
+                "win": "8",
+                "draw": "16",
+                "loses": "14",
+                "point": "40"
+            },
+            "Las Palmas": {
+                "win": "10",
+                "draw": "10",
+                "loses": "18",
+                "point": "40"
+            },
+            "Rayo Vallecano": {
+                "win": "8",
+                "draw": "14",
+                "loses": "16",
+                "point": "38"
+            },
+            "C\u00e1diz": {
+                "win": "6",
+                "draw": "15",
+                "loses": "17",
+                "point": "33"
+            },
+            "Almer\u00eda": {
+                "win": "3",
+                "draw": "12",
+                "loses": "23",
+                "point": "21"
+            },
+            "Granada": {
+                "win": "4",
+                "draw": "9",
+                "loses": "25",
+                "point": "21"
+            }
+        }
+    }
 ]
